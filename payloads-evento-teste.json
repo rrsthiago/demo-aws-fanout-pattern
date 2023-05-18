@@ -1,0 +1,37 @@
+[
+    {
+        "nome_cliente": "Acme Inc.",
+        "segmento": "manufatura",
+        "servico_contratado": "notificacao",
+        "numero_contratado": "303303",
+        "volumetria_maxima_rota": 50
+    },
+    {
+        "nome_cliente": "Dharma Initiative",
+        "segmento": "pesquisa",
+        "servico_contratado": "anuncio",
+        "numero_contratado": "4815",
+        "volumetria_maxima_rota": 108
+    },
+    {
+        "nome_cliente": "Dharma Initiative",
+        "segmento": "pesquisa",
+        "servico_contratado": "anuncio",
+        "numero_contratado": "162342",
+        "volumetria_maxima_rota": 114
+    },
+    {
+        "nome_cliente": "Aperture Science",
+        "segmento": "pesquisa",
+        "servico_contratado": "cobranca",
+        "numero_contratado": "00003",
+        "volumetria_maxima_rota": 50
+    },
+    {
+        "nome_cliente": "Federal Bureau of Control",
+        "segmento": "confidencial",
+        "servico_contratado": "confidencial",
+        "numero_contratado": "404",
+        "volumetria_maxima_rota": 1
+    }
+]
