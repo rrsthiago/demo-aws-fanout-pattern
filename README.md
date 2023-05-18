@@ -1,2 +1,3 @@
-# demo-aws-fanout-pattern
-Arquivos de demonstração sobre fanout pattern no AWS User Group Triângulo Mineiro
+# Arquivos apresentação: Aplicação do Fanout Pattern em provisionamento de serviços
+
+Arquivos de referência da apresentação sobre o uso do Fanout Pattern em um exemplo de provisionamento de serviços.
